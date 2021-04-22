@@ -1,0 +1,7 @@
+name: farmOS Money
+description: Provides a money asset type for farmOS
+type: module
+package: farmOS Contrib
+core_version_requirement: ^9
+dependencies:
+  - farm_entity

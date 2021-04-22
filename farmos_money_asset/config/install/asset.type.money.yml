@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farmos_money_asset
+id: money
+label: Money
+description: ''
+workflow: asset_default
+new_revision: true
